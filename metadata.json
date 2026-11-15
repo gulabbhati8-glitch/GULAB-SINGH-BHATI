@@ -1,0 +1,8 @@
+{
+  "name": "Bhati's Cacao Hearth Kitchen",
+  "description": "Artisan homemade chocolate hampers, bespoke gift boxes starting from ₹500/-, and personalized occasion gift wrapping ordered directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
